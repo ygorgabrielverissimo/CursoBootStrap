@@ -1,11 +1,22 @@
 .navbar{
 
-        background-color: #ff99ff;
+        background-color: white;
+        
 }
 .quemSomos{
-    background-color: #ff4d88;
-    
+    background-color: #dfe8f0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
 }
+.parceiros{
+    background-color: #dfe8f0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+}
+    
 .margin{
     padding-top: 30px;
+    margin-bottom: 30px;
+    
+
 }
